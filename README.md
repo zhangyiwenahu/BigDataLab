@@ -1,4 +1,4 @@
-## AHU_BigDataLab
+## BigDataLab 
 
 This repository maintains implementation codes for papers published by Big Data and Cloud Services Engineering Laboratory, Anhui University.
 
