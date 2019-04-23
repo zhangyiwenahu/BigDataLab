@@ -18,15 +18,15 @@ Last updated: 2019/4/23
 Please visit [this page for a summary of evaluation results](http://wsdream.github.io/WSRec/evaluation_result.pdf) and [this page for detailed change logs](https://github.com/WS-DREAM/WSRec/releases).
 
 - Covering Algorithm
-  - [EACP-CA](https://github.com/zhangyiwenahu/BigDataLab/EACP-CA) [Wang et al., [SCN'2018](http://bigdata.ahu.edu.cn/upload/20180904082749tkxpcksqseblvy52wyyfobkk0i3kea53.pdf)]
+  - [EACP-CA](https://github.com/zhangyiwenahu/BigDataLab/tree/master/EACP-CA) [Wang et al., [SCN'2018](http://bigdata.ahu.edu.cn/upload/20180904082749tkxpcksqseblvy52wyyfobkk0i3kea53.pdf)]
 
 - Deep Learning based Service Recommendation
   - [LDCF](https://github.com/ChunhuiYin/Location-aware_Deep_Collaborative_Filtering) [Yin et al., [Trans on SMC'2019](http://baidu.com)]
   - [RTF](https://github.com/ChunhuiYin/Recurrent_Tensor_Factorization) [Yin et al., [ASOC'2019](http://baidu.com)]
   
 - Fruit Fly optimization Algorithm 
-  - [MSFOA](https://github.com/zhangyiwenahu/BigDataLab/MSFOA) [Cui et al., [KBS'2016](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6888908&tag=1)] 
-  - [AFOA](https://github.com/zhangyiwenahu/BigDataLab/AFOA) [Cui et al., [IJAIT'2016](http://bigdata.ahu.edu.cn/upload/20180608220639dwiue8lntdu6ex223eov9d5kzqoyxnxl.pdf)] 
+  - [MSFOA](https://github.com/zhangyiwenahu/BigDataLab/tree/master/MSFOA) [Cui et al., [KBS'2016](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6888908&tag=1)] 
+  - [AFOA](https://github.com/zhangyiwenahu/BigDataLab/tree/master/AFOA) [Cui et al., [IJAIT'2016](http://bigdata.ahu.edu.cn/upload/20180608220639dwiue8lntdu6ex223eov9d5kzqoyxnxl.pdf)] 
 
 
 # Environment Requirement
@@ -48,7 +48,7 @@ Please read the source code directly.
 >Your contributions are welcome!
 
 #### Contributors
-A big thanks to AHU_BigDataLab contributors:
+A big thanks to BigDataLab contributors:
 - [Yin-wen Zhang](https://github.com/zhangyiwenahu), Anhui University (Project Owner)
 - [Chun-hui Yin](https://github.com/ChunhuiYin), Anhui University (Project Coordinator)
 
