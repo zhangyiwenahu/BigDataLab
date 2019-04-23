@@ -1,0 +1,25 @@
+C:\Users\if\Desktop\PFOA\FOA\bin\Debug\FOA.exe
+C:\Users\if\Desktop\PFOA\FOA\bin\Debug\FOA.pdb
+C:\Users\if\Desktop\PFOA\FOA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\if\Desktop\PFOA\FOA\obj\x86\Debug\FOA.exe
+C:\Users\if\Desktop\PFOA\FOA\obj\x86\Debug\FOA.pdb
+C:\Users\if\Desktop\FOA位置改进\PFOA\FOA\obj\x86\Debug\FOA.exe
+C:\Users\if\Desktop\FOA位置改进\PFOA\FOA\obj\x86\Debug\FOA.pdb
+C:\Users\if\Desktop\FOA位置改进\PFOA\FOA\bin\Debug\FOA.exe
+C:\Users\if\Desktop\FOA位置改进\PFOA\FOA\bin\Debug\FOA.pdb
+C:\Users\if\Desktop\FOA位置改进\PFOA\FOA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\if\Desktop\FOA位置改进\PFOA 线性版\FOA\obj\x86\Debug\FOA.exe
+C:\Users\if\Desktop\FOA位置改进\PFOA 线性版\FOA\obj\x86\Debug\FOA.pdb
+C:\Users\if\Desktop\FOA位置改进\PFOA 线性版\FOA\bin\Debug\FOA.exe
+C:\Users\if\Desktop\FOA位置改进\PFOA 线性版\FOA\bin\Debug\FOA.pdb
+C:\Users\if\Desktop\FOA位置改进\PFOA 线性版\FOA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MSFOA\FOA位置改进源码\PFOA 线性版\FOA\obj\x86\Debug\FOA.exe
+E:\MSFOA\FOA位置改进源码\PFOA 线性版\FOA\obj\x86\Debug\FOA.pdb
+E:\MSFOA\FOA位置改进源码\PFOA 线性版\FOA\bin\Debug\FOA.exe
+E:\MSFOA\FOA位置改进源码\PFOA 线性版\FOA\bin\Debug\FOA.pdb
+E:\MSFOA\FOA位置改进源码\PFOA 线性版\FOA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GM\Desktop\PFOA 线性版\FOA\obj\x86\Debug\FOA.exe
+C:\Users\GM\Desktop\PFOA 线性版\FOA\obj\x86\Debug\FOA.pdb
+C:\Users\GM\Desktop\PFOA 线性版\FOA\bin\Debug\FOA.exe
+C:\Users\GM\Desktop\PFOA 线性版\FOA\bin\Debug\FOA.pdb
+C:\Users\GM\Desktop\PFOA 线性版\FOA\obj\x86\Debug\ResolveAssemblyReference.cache

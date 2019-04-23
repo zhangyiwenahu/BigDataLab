@@ -1,0 +1,7 @@
+E:\第三篇AFOA\IFOA公式版实验\IFOA\IFOA\bin\Debug\IFOA.exe
+E:\第三篇AFOA\IFOA公式版实验\IFOA\IFOA\bin\Debug\IFOA.pdb
+E:\第三篇AFOA\IFOA公式版实验\IFOA\IFOA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\第三篇AFOA\IFOA公式版实验\IFOA\IFOA\obj\x86\Debug\IFOA.exe
+E:\第三篇AFOA\IFOA公式版实验\IFOA\IFOA\obj\x86\Debug\IFOA.pdb
+E:\第三篇AFOA\IFOA公式版实验\AFOA\IFOA\obj\x86\Debug\IFOA.exe
+E:\第三篇AFOA\IFOA公式版实验\AFOA\IFOA\obj\x86\Debug\IFOA.pdb

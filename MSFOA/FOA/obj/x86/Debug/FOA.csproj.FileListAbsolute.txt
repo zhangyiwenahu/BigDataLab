@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\IFOA公式版\FOA\FOA\bin\Debug\FOA.exe
+C:\Users\HP\Desktop\IFOA公式版\FOA\FOA\bin\Debug\FOA.pdb
+C:\Users\HP\Desktop\IFOA公式版\FOA\FOA\obj\x86\Debug\FOA.exe
+C:\Users\HP\Desktop\IFOA公式版\FOA\FOA\obj\x86\Debug\FOA.pdb
+C:\Users\if\Desktop\IFOA公式版\LGMS-FOA\FOA\obj\x86\Debug\FOA.exe
+C:\Users\if\Desktop\IFOA公式版\LGMS-FOA\FOA\obj\x86\Debug\FOA.pdb
+C:\Users\if\Desktop\IFOA公式版\LGMS-FOA\FOA\bin\Debug\FOA.exe
+C:\Users\if\Desktop\IFOA公式版\LGMS-FOA\FOA\bin\Debug\FOA.pdb
+C:\Users\if\Desktop\IFOA公式版\LGMS-FOA\FOA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\if\Desktop\PFOA\FOA\obj\x86\Debug\FOA.exe
+C:\Users\if\Desktop\PFOA\FOA\obj\x86\Debug\FOA.pdb
+C:\Users\if\Desktop\PFOA\FOA\bin\Debug\FOA.exe
+C:\Users\if\Desktop\PFOA\FOA\bin\Debug\FOA.pdb
+C:\Users\if\Desktop\PFOA\FOA\obj\x86\Debug\ResolveAssemblyReference.cache
