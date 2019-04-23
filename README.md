@@ -48,7 +48,7 @@ Please read the source code directly.
 
 #### Contributors
 A big thanks to BigDataLab contributors:
-- [Yin-wen Zhang](https://github.com/zhangyiwenahu), Anhui University (Project Owner)
+- [Yi-wen Zhang](https://github.com/zhangyiwenahu), Anhui University (Project Owner)
 - [Chun-hui Yin](https://github.com/ChunhuiYin), Anhui University (Project Coordinator)
 
 ##Bugs, Discussion, Feedback
