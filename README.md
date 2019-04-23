@@ -53,5 +53,4 @@ A big thanks to BigDataLab contributors:
 - [Chun-hui Yin](https://github.com/ChunhuiYin), Anhui University (Project Coordinator)
 
 ##Bugs, Discussion, Feedback
-For bugs and feedback, please post to [our issue page](https://github.com/BigDataLabAHU/issues). For any other enquires, please drop an email to us (wsdream.maillist@gmail.com).
-
+For bugs and feedback, please post to [our issue page](https://github.com/BigDataLabAHU/issues).
