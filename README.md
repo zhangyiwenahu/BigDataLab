@@ -15,7 +15,6 @@ Last updated: 2019/4/23
 - MovieLens datasets: [https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/)
 
 ## Code Archive
-Please visit [this page for a summary of evaluation results](http://wsdream.github.io/WSRec/evaluation_result.pdf) and [this page for detailed change logs](https://github.com/WS-DREAM/WSRec/releases).
 
 - Covering Algorithm
   - [EACP-CA](https://github.com/zhangyiwenahu/BigDataLab/tree/master/EACP-CA) [Wang et al., [SCN'2018](http://bigdata.ahu.edu.cn/upload/20180904082749tkxpcksqseblvy52wyyfobkk0i3kea53.pdf)]
