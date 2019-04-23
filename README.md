@@ -23,7 +23,7 @@ Last updated: 2019/4/23
   - [LDCF](https://github.com/ChunhuiYin/Location-aware_Deep_Collaborative_Filtering) [Yin et al., [Trans on SMC'2019](http://baidu.com)]
   - [RTF](https://github.com/ChunhuiYin/Recurrent_Tensor_Factorization) [Yin et al., [ASOC'2019](http://baidu.com)]
   
-- Fruit Fly optimization Algorithm 
+- Fruit Fly Optimization Algorithm 
   - [MSFOA](https://github.com/zhangyiwenahu/BigDataLab/tree/master/MSFOA) [Cui et al., [KBS'2016](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6888908&tag=1)] 
   - [AFOA](https://github.com/zhangyiwenahu/BigDataLab/tree/master/AFOA) [Cui et al., [IJAIT'2016](http://bigdata.ahu.edu.cn/upload/20180608220639dwiue8lntdu6ex223eov9d5kzqoyxnxl.pdf)] 
 
