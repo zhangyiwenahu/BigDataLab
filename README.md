@@ -52,4 +52,4 @@ A big thanks to BigDataLab contributors:
 - [Chun-hui Yin](https://github.com/ChunhuiYin), Anhui University (Project Coordinator)
 
 ##Bugs, Discussion, Feedback
-For bugs and feedback, please contact [Yi-wen Zhang](zywahu@qq.com).
+For bugs and feedback, please contact zywahu@qq.com.
