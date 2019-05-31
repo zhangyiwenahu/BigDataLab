@@ -18,6 +18,7 @@ Last updated: 2019/4/23
 
 - Covering Algorithm
   - [EACP-CA](https://github.com/zhangyiwenahu/BigDataLab/tree/master/EACP-CA) [Wang et al., [SCN'2018](http://bigdata.ahu.edu.cn/upload/20180904082749tkxpcksqseblvy52wyyfobkk0i3kea53.pdf)]
+  - [C-K-means](https://github.com/zhangyiwenahu/BigDataLab/tree/master/C-K-means) [Zhang et al., [Complexity'2018](http://bigdata.ahu.edu.cn/upload/20180803155540rc5kqqcusrcg70d7ayx4qok91zcecz62.pdf)]
 
 - Deep Learning based Service Recommendation
   - [LDCF](https://github.com/ChunhuiYin/Location-aware_Deep_Collaborative_Filtering) [Yin et al., [Trans on SMC'2019](http://baidu.com)]
