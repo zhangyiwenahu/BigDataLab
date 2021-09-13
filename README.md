@@ -43,7 +43,7 @@ This code can be run at following requirement but not limit to:
 ## Usage
 Please read the source code directly.
     
-##Contributing
+## Contributing
 
 >Your contributions are welcome!
 
@@ -52,5 +52,5 @@ A big thanks to BigDataLab contributors:
 - [Yi-wen Zhang](https://github.com/zhangyiwenahu), Anhui University (Project Owner)
 - [Chun-hui Yin](https://github.com/ChunhuiYin), Anhui University (Project Coordinator)
 
-##Bugs, Discussion, Feedback
+## Bugs, Discussion, Feedback
 For bugs and feedback, please contact zywahu@qq.com.
